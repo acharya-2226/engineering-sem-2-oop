@@ -114,3 +114,6 @@ This project is intended for academic and learning purposes. You may use, modify
 ## 🙏 Acknowledgments
 
 Special thanks to faculty and classmates for their support and guidance during this project.
+
+Folder update note: This directory name was updated and this README was touched to keep folder-level changes tracked in Git.
+Small documentation refresh for commit traceability.
